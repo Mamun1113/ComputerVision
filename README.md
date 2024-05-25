@@ -6,6 +6,7 @@ Hi! This project access camera of your PC and tries to find your face in the vid
 # Files
 
 **main<area>.py** is the code file of this project.
+
 **image/MyFace.jpg** is your image of face.
 
 ## Demo video link: https://youtu.be/Hosk_vqaszs
