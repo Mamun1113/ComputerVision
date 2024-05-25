@@ -76,7 +76,7 @@ while True:
     if(time_waited >= max_wait):
         time_waited = 0.0
         # Change mode
-        screen_saver()
+        screen_lock()
 
     # Display the resulting frame
     cv2.imshow('Webcam Video', frame)
